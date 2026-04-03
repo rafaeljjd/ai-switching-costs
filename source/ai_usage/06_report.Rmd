@@ -1,0 +1,298 @@
+---
+title: "AI Memory and Switching Costs: Pilot Survey Results"
+subtitle: "Descriptive Analysis of Prolific Sample"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    number_sections: true
+    fig_caption: true
+    latex_engine: xelatex
+    keep_tex: false
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{float}
+  - \floatplacement{figure}{H}
+  - \usepackage{amsmath}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE, warning = FALSE, message = FALSE,
+  fig.align = "center", out.width = "95%",
+  fig.pos = "H"
+)
+```
+
+```{r run-pipeline}
+source(file.path(here::here(), "source", "ai_usage", "00_setup.R"))
+source(file.path(here::here(), "source", "ai_usage", "01_clean.R"))
+source(file.path(here::here(), "source", "ai_usage", "02_descriptives.R"))
+source(file.path(here::here(), "source", "ai_usage", "03_memory_beliefs.R"))
+source(file.path(here::here(), "source", "ai_usage", "04_valuation.R"))
+source(file.path(here::here(), "source", "ai_usage", "04b_mechanisms.R"))
+```
+
+\newpage
+
+# Introduction
+
+This report summarizes the pilot survey for a study on AI memory and platform lock-in. The survey elicits beliefs about AI memory, willingness to accept (WTA) compensation for memory erasure, and willingness to pay (WTP) for a competing AI assistant under varying data portability scenarios. These measures map directly onto a theoretical model of switching costs driven by accumulated personalization data.
+
+The pilot was fielded on Prolific with N = `r N` respondents who completed the survey in a median of `r round(median(df$duration_min, na.rm = TRUE), 1)` minutes. All WTP/WTA questions were asked within-subjects (the full experiment will use a between-subjects design).
+
+# Sample Description
+
+## Demographics
+
+```{r tab-demographics}
+tab_demographics |>
+  mutate(pct = round(pct, 1)) |>
+  kable(col.names = c("Variable", "Category", "N", "%"),
+        booktabs = TRUE, caption = "Sample Demographics") |>
+  kable_styling(latex_options = c("hold_position", "striped")) |>
+  collapse_rows(columns = 1, valign = "top")
+```
+
+## AI Platform Usage
+
+```{r tab-platform}
+tab_platform |>
+  select(platform, n_personal, pct_personal, n_work, pct_work, n_paid, pct_paid) |>
+  mutate(across(starts_with("pct"), ~ round(.x, 1))) |>
+  kable(col.names = c("Platform", "N", "%", "N", "%", "N", "%"),
+        booktabs = TRUE,
+        caption = "Platform usage: personal, work, and paid subscriptions") |>
+  kable_styling(latex_options = c("hold_position", "striped", "scale_down")) |>
+  add_header_above(c(" " = 1, "Personal Use" = 2, "Work Use" = 2, "Paid" = 2))
+```
+
+ChatGPT dominates personal use (`r round(stats_desc$pct_chatgpt)`%) and work use. `r round(stats_desc$pct_paying)`% of respondents pay for any AI subscription. The mean respondent uses `r round(stats_desc$mean_platforms, 1)` platforms, and `r round(stats_desc$pct_multihomer)`% qualify as multihomers (2+ platforms).
+
+```{r fig-platforms, fig.cap="AI Platform Usage (Personal vs. Work)", fig.width=8, fig.height=5}
+fig_platform_shares
+```
+
+```{r fig-frequency, fig.cap="Usage Frequency", fig.width=7, fig.height=4}
+fig_usage_freq
+```
+
+Regarding multihoming frequency (Q4): `r paste(multihoming_freq_tab$multihoming_frequency, " (", round(multihoming_freq_tab$pct), "%)", sep = "", collapse = ", ")`.
+
+```{r fig-multihoming, fig.cap="Number of AI Platforms Used", fig.width=7, fig.height=4}
+fig_multihoming
+```
+
+## Ad-Free Valuation
+
+```{r fig-adfree, fig.cap="WTP for Ad-Free AI", fig.width=8, fig.height=4.5}
+fig_wtp_adfree
+```
+
+```{r fig-adsentiment, fig.cap="Ad Sentiment", fig.width=7, fig.height=4}
+fig_ad_sentiment
+```
+
+Mean ad sentiment is `r round(mean(df$ad_sentiment_num, na.rm = TRUE), 1)` on a 1--7 scale (1 = strongly dislike). The majority (`r round(mean(df$wtp_adfree_num == 0, na.rm = TRUE) * 100)`%) would rather see ads than pay, despite strongly disliking ads.
+
+# Memory Beliefs and Switching Perceptions
+
+## Memory Awareness
+
+```{r tab-memory}
+tab_memory_awareness |>
+  mutate(pct = round(pct, 1)) |>
+  kable(col.names = c("AI Remembers?", "Reviewed Memories?", "N", "%"),
+        booktabs = TRUE,
+        caption = "Memory Awareness Crosstab") |>
+  kable_styling(latex_options = c("hold_position", "striped"))
+```
+
+`r round(stats_memory$pct_remembers)`% of respondents believe their AI remembers them. Only `r round(stats_memory$pct_reviewed)`% have reviewed their AI's memories, and `r round(stats_memory$pct_didnt_know)`% did not know they could.
+
+```{r fig-memory, fig.cap="Memory Beliefs Overview", fig.width=14, fig.height=5}
+fig_memory_beliefs
+```
+
+Perceived improvement from memory averages `r round(stats_memory$improvement_mean, 1)` / 7 (SD = `r round(stats_memory$improvement_sd, 1)`), indicating moderate perceived value.
+
+## Switching Losses
+
+```{r fig-losses, fig.cap="Perceived Switching Losses", fig.width=9, fig.height=5}
+fig_switching_losses
+```
+
+`r round(stats_memory$pct_nothing_sig)`% report "nothing significant" would be lost from switching. The most common concern is losing preferences/style, followed by conversation history.
+
+## Time to Re-Personalize
+
+```{r fig-conversations, fig.cap="Conversations Needed to Re-Personalize", fig.width=8, fig.height=4.5}
+fig_conversations
+```
+
+`r round(stats_memory$pct_never_catch_up)`% believe a new assistant would *never* fully catch up---an extreme form of perceived lock-in.
+
+# Valuation Results
+
+## Survey-to-Model Mapping
+
+```{r tab-mapping}
+tab_model_mapping |>
+  kable(col.names = c("Survey Q", "Variable", "Model", "Description"),
+        booktabs = TRUE,
+        caption = "Mapping: Survey Variables to Model Notation") |>
+  kable_styling(latex_options = c("hold_position", "striped"))
+```
+
+## WTA for Memory Erasure
+
+```{r fig-wta, fig.cap="WTA for Permanent Memory Erasure", fig.width=9, fig.height=5}
+fig_wta
+```
+
+```{r tab-valuation}
+tab_valuation |>
+  mutate(across(where(is.numeric), ~ round(.x, 1))) |>
+  kable(col.names = c("Measure", "N", "% at $0", "Mean", "Median", "SD", "IQR"),
+        booktabs = TRUE,
+        caption = "Valuation Summary Statistics") |>
+  kable_styling(latex_options = c("hold_position", "striped"))
+```
+
+## WTP Across Scenarios
+
+```{r fig-wtp, fig.cap="WTP for Claude Pro: Within-Subject Comparison", fig.width=10, fig.height=6}
+fig_wtp_comparison
+```
+
+```{r fig-demand, fig.cap="Demand Curves and Margin Decomposition", fig.width=10, fig.height=9}
+fig_demand_curves
+```
+
+The demand curves show the gap between scenarios: the vertical distance between the "no strings" and "with erasure" curves represents demand suppression, while the distance from "with transfer" to "with erasure" represents portability recovery.
+
+## Demand Suppression and Portability
+
+**Demand suppression** (Q13 $-$ Q14): mean = \$`r round(suppression_stats$mean, 2)`, SD = \$`r round(suppression_stats$sd, 2)`, *t*-test against zero: *p* = `r format.pval(suppression_stats$p, digits = 3)`.
+
+**Portability recovery** (Q15 $-$ Q14): mean = \$`r round(recovery_stats$mean, 2)`, SD = \$`r round(recovery_stats$sd, 2)`, *t*-test against zero: *p* = `r format.pval(recovery_stats$p, digits = 3)`.
+
+**Effective portability** ($\hat{\varphi}_{eff}$): median = `r round(phi_stats$median, 2)`, mean = `r round(phi_stats$mean, 2)` (N = `r phi_stats$n` with nonzero denominator).
+
+**Consistency check**: `r round(consistency$pct_consistent, 1)`% of respondents have W2 $\geq$ W3 $\geq$ W4 (theory-consistent ordering); `r round(consistency$pct_w2_ge_w4, 1)`% have W2 $\geq$ W4.
+
+```{r tab-sensitivity}
+sensitivity |>
+  mutate(across(where(is.numeric), ~ round(.x, 1))) |>
+  kable(col.names = c("Scenario", "WTA Mean", "WTP No Strings", "WTP Erasure", "WTP Transfer"),
+        booktabs = TRUE,
+        caption = "Sensitivity: Censoring Assumptions") |>
+  kable_styling(latex_options = c("hold_position", "striped"))
+```
+
+## WTA by Perceived Improvement
+
+```{r fig-wta-imp, fig.cap="Mean WTA by Perceived Improvement Level", fig.width=8, fig.height=5}
+fig_wta_by_imp
+```
+
+# Mechanisms
+
+## Demand Suppression and Usage Intensity
+
+If memory and usage are complements ($u_{tm} > 0$), heavier users should exhibit greater demand suppression. We regress (Q13 $-$ Q14) on usage frequency, controlling for demographics.
+
+```{r tab-reg}
+reg_coef |>
+  kable(col.names = c("Term", "Estimate", "SE", "t", "p"),
+        booktabs = TRUE,
+        caption = "OLS: Demand Suppression on Usage Frequency + Demographics") |>
+  kable_styling(latex_options = c("hold_position", "striped", "scale_down"))
+```
+
+```{r fig-supp-freq, fig.cap="Demand Suppression by Usage Frequency", fig.width=8, fig.height=5}
+fig_supp_freq
+```
+
+## Memory Awareness vs. Perceived Improvement
+
+```{r fig-wta-2x2, fig.cap="WTA by Memory Awareness and Perceived Improvement", fig.width=8, fig.height=5.5}
+fig_wta_2x2
+```
+
+This 2$\times$2 decomposition tests the "behavioral wedge": do respondents who are *unaware* their AI remembers them but nonetheless rate memory as valuable exhibit different WTA? If so, WTA may reflect general aversion to data loss rather than experienced personalization value.
+
+## Concentration Beliefs vs. Actual Multihoming
+
+```{r fig-conc, fig.cap="Concentration Beliefs vs. Actual Multihoming", fig.width=9, fig.height=5.5}
+fig_concentration
+```
+
+# Design Calibration
+
+This section summarizes findings relevant to the full experiment design.
+
+## BDM Price Range
+
+The WTA distribution for memory erasure (Q12) suggests:
+
+- `r round(mean(df$wta_num == 0, na.rm = TRUE) * 100)`% accept \$0 (no value from memory)
+- The 25th--75th percentiles span \$`r quantile(df$wta_num, 0.25, na.rm = TRUE)` to \$`r quantile(df$wta_num, 0.75, na.rm = TRUE)`
+- `r round(mean(df$wta_infinite, na.rm = TRUE) * 100, 1)`% say "no amount" (right-censored)
+
+**Recommendation**: A BDM price list from \$0 to \$100 in \$5 increments would capture the bulk of the distribution while maintaining incentive compatibility. Consider a broader range (\$0--\$500) for the WTA question if budget permits.
+
+## Stratification Candidates
+
+```{r stratification}
+# Quick regressions to identify predictive covariates
+strat_wta <- lm(wta_num ~ frequency_ordered + age_group + gender + education +
+                  ai_remembers + perceived_improvement_num, data = df)
+strat_coef <- broom::tidy(strat_wta) |>
+  filter(p.value < 0.1) |>
+  mutate(across(where(is.numeric), ~ round(.x, 3)))
+
+if (nrow(strat_coef) > 1) {
+  strat_coef |>
+    kable(col.names = c("Term", "Estimate", "SE", "t", "p"),
+          booktabs = TRUE,
+          caption = "Covariates Predicting WTA (p < 0.10)") |>
+    kable_styling(latex_options = c("hold_position", "striped"))
+} else {
+  cat("No covariates significant at p < 0.10 for WTA.")
+}
+```
+
+## Preliminary Effect Sizes
+
+For power calculations:
+
+- **Demand suppression** (Q13 $-$ Q14): Cohen's $d$ = `r round(suppression_stats$mean / suppression_stats$sd, 3)`
+- **Portability recovery** (Q15 $-$ Q14): Cohen's $d$ = `r round(recovery_stats$mean / recovery_stats$sd, 3)`
+
+These within-subject effect sizes serve as upper bounds for the between-subjects design. The between-subjects experiment should plan for effect sizes approximately 50--70% of these values.
+
+\newpage
+
+# Appendix
+
+## Survey Completion Time
+
+```{r duration}
+summary(df$duration_min) |> as.matrix() |> t() |>
+  kable(booktabs = TRUE, caption = "Completion Time (minutes)", digits = 1) |>
+  kable_styling(latex_options = "hold_position")
+```
+
+## Awareness of Claude Import Feature
+
+`r round(mean(df$aware_claude_import == "Yes", na.rm = TRUE) * 100, 1)`% were aware of Claude's ChatGPT memory import feature before the survey. Among those aware (N = `r sum(df$aware_claude_import == "Yes", na.rm = TRUE)`), `r sum(df$used_claude_import == "Yes", na.rm = TRUE)` had actually used it.
+
+## Forecast: Quality After Erasure
+
+Mean forecast quality after one month of re-use: `r round(mean(df$forecast_quality_num, na.rm = TRUE), 1)` / 7 (1 = substantially worse, 7 = substantially better). Respondents expect moderate degradation but not catastrophic loss.
+
+## Forecast: Transfer Fidelity
+
+Mean expected transfer fidelity: `r round(mean(df$forecast_fidelity_num, na.rm = TRUE))`%. Distribution: `r paste(df |> count(forecast_transfer_fidelity) |> mutate(s = paste0(forecast_transfer_fidelity, ": ", n)) |> pull(s), collapse = ", ")`.

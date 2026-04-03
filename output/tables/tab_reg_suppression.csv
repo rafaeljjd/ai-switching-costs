@@ -1,0 +1,14 @@
+term,estimate,std.error,statistic,p.value
+(Intercept),3.093,2.351,1.315,0.19
+freq_num,0.501,0.448,1.118,0.265
+age_group25-34,-2.88,1.867,-1.543,0.125
+age_group35-44,-2.809,1.832,-1.533,0.127
+age_group45-54,-5.073,1.936,-2.62,0.01
+age_group55-64,-2.404,2.275,-1.056,0.292
+age_group65+,-3.7,2.51,-1.474,0.142
+genderNon-binary,-2.47,5.304,-0.466,0.642
+genderWoman,-0.468,0.981,-0.476,0.634
+educationDoctoral or professional degree,2.739,4.293,0.638,0.524
+educationHigh school or less,-3.111,1.483,-2.097,0.037
+educationMaster's degree,-0.122,1.519,-0.08,0.936
+educationSome college,1.066,1.154,0.924,0.357

@@ -1,0 +1,8 @@
+survey_question,variable,model_symbol,description
+Q12,wta_memory_erasure,W1,WTA to erase ChatGPT memory
+Q13,wtp_claude_no_strings,W2,WTP for Claude (memory intact)
+Q14,wtp_claude_with_erasure,W4,WTP for Claude (memory erased)
+Q15,wtp_claude_with_transfer,W3,WTP for Claude (memory transferred)
+Q13 - Q14,demand_suppression,W2 - W4,Demand suppression from memory
+Q15 - Q14,portability_recovery,W3 - W4,Demand recovered by portability
+1-(Q13-Q15)/(Q13-Q14),phi_eff,phi_eff,Effective portability share
