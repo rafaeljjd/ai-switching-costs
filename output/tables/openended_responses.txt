@@ -1,0 +1,793 @@
+=== WHY MULTIHOME ===
+
+N = 133 
+
+1: I'm still figuring out which assistant I like best - my friends switched to Claude, but I use Chat GPT, so I like to check them. We use Copilot at work usually cuz its built into Microsoft Suite
+
+2: just to make sure its accurate and does not have more to add to the question or task i ask help with
+
+3: I mainly use to for simple grammar checks and I like to see the variety in what is acceptable grammar depending on the audience. I found Claude to be the best at it while ChatGPT does a nice clean pass if everything else in order syntax-wise.
+
+4: I like a second opinion to review the output and help determine what is accurate. Co Pilot is better for logic for me and ChatGPT is better for proactive response
+
+5: Intellectual curiosity, varied feature offerings, gpt for general info, claude or openclaw for code and agentics, grok for video cheap...
+
+6: For work purposes, I like Claude for my data work it seems to be the most accurate for what I need.  For more personal use, I like CoPilot or Gemini because its easy to access to ask simple questions.
+
+7: My work pays for ChatGPT so I use that often. I prefer Gemini for other tasks, especially ones that involve images. I feel like some AI assistance do a better job with certain task than others. For example, Gemini is better for anything graphic, whereas ChatGPT does a better job summarizing.
+
+8: Sometimes I will run questions through Grok and ChatGPT if I suspect something is incorrect. I tend to get better results on current events from Grok
+
+9: I feel like Claude is a bit better so if ChatGPT does not give me the info I want I will usually switch to Claude.
+
+10: If I am not sure of something I use one to double check, and I also ask for sources. If they are the same I am usually satisfied. If they are different I keep going.
+
+11: I use more than one AI assistant because I find that if I send a prompt to one AI assistant, and send the same prompt to another sometimes I can come up with more clear information, especially when I am coding something.
+
+12: i use one to check the other
+
+13: If it's baked into the system/application I'm currently using or working on, I may try it out to see if it's worth using.
+
+14: I want to compare answers and see if they are the same or if they offer different advice. I have noticed some like to be very agreeable with you instead of being upfront and helpful.
+
+15: I like to compare the results. Sometimes, well, often, one result is more suitable to my needs. I can't say in general if there is a certain difference. I just go with the result that is more useful to me
+
+16: It became a matter of habit.. I went through all of them and found Grok more consistent, and less biased than the others. It summarizes information I think better than the others.
+
+17: ChatGPT is faster and processes information better, responses and memory are better. I also work with a lost of Microsoft products and so might switch because MS ought to be the best tool for MS related questions.
+
+18: I'm pretty much stick to one Ai system which is grox.
+
+19: I try to check accuracy and consistency of their answers to ensure that the responses I’m getting are sound. I also double check with reputable sources that I find via academic journals & articles too. The main difference i notice is the formatting of the assistants. Claude does a good job of asking follow-up questions to better tailor the question to me. I like Gemini and Claude for the personalization feature. ChatGPT is noticeably faster in generating answers.
+
+20: I feel that the models are better in certain things. So, I use them based on my needs.
+
+21: I tend to use ChatGPT for work because it is approved by my district, while I only really use Grok when I'm on twitter, so not for work use.
+
+22: I prefer ChatGPT but sometimes it can get bogged down by repetitive attempts at rapport, when really I'm just looking for information. In that case I will try Gemini as an extension of a search and find more matter-of-fact, comprehensive information. That doesn't mean that Gemini does this better, but in some cases it tends to get to the point in a more efficient way.
+
+23: i like to compare and contrast how Grok answers compare to Duck.ai answers.
+
+24: some give more in depth answers than the other
+
+25: I typically use the AI assistant that is the most convenient, or that is tied to the platform that I am currently using. Nearly 100% of the time, I don't purely rely on AI results - I often do additional research through search engines or off-line resources, or if it's a writing task I will always edit using my own words/knowledge.
+
+26: I wanna make sure that I’m getting the same information across multiple results to prove that I’m not getting something that’s non-factual. Most of the time I simply just noticed the difference between how the assistance talk to me and the style of wording I use chat for basic information look up and then use Google for more intense questions.
+
+27: The answers either don't sound right or are not right. I have to have correct information.
+
+28: I choose the assistant based on the device I am using.  I haven't noticed a great deal of difference between the two AI assistants conversationally, but I think Gemini does a better job of retrieving accurate information as opposed to Copilot.
+
+29: Sometimes one AI is better at explaining something than the other, or at least in a way that makes sense to me.
+
+30: Sometimes if I’m using a chatbot for roleplay purposes, I have to change which AI assistant I use for the character to feel more accurate to themself
+
+31: Some sound too robotic. I like to use the ones that sound like it knows what its doing. Sometimes one works better than the other at certain topics or subjects I want to attack.
+
+32: One AI assistant is better at writing
+
+33: All AI assistants have strengths and weaknesses, additionally limits usually occur. One AI assistant might have longer context while the other is extremely short.
+
+34: I wanted to see how the handled the problem I gave to them and how accommodating they were to follow through with my work.
+
+35: Grok overall seems to give the best results for more targeted stuff. Chatgpt will spit out false information sometimes and so will gemini
+
+36: I just want to confirm that the information I am getting is correct. I've noticed that all AI platforms seem to be fairly agreeable, but ChatGPT seems to be the friendliest of them all (maybe because that is the one that I use most frequently.)
+
+37: Sometimes chatgpt struggles to give me clear, concise information, and overexplains. Additionally, the LLM trys to be personable, and I personally don't enjoy that.
+
+38: I use chat gpt for work and personal when I am seeking out a brain storming session or new perspective on a subject. The google AI tool is used from time to time if I'm researching on my phone and the option populates to utilize it.
+
+39: I sometimes use more than AI assistant because when I need a precise answer, I always double check with another AI assistant. There have been times where I've been given an answer that I was a little hesitant about as well, so I would use another AI assistant just for peace of mind. I like ChatGPT the best personally, for what I use it for, but I have used Claude for helping me through technical problems or math, which I feel like it does well.
+
+40: I want to see if they arrive at the same conclusion. It's to hedge against hallucinations so that I don't have to verify every single prompt answer given
+
+41: Different AIs respond differently to questions than others. I like to experiment with them to see what responses I get.
+
+42: Se how different models interpret the same prompts.
+
+43: Depending on the topic, some AI assistants provide better recommendations than others.
+
+44: I started with chatgpt and it "knows" me. I'm transitioning to gemini but while building a base with gemini,  I still use chatgpt for things that require the knowledge or already had about me
+
+45: ChatGPT is better at analyzing images or working with multimedia than Gemini in my opinion, so sometimes I will ask both for the most useful information and compare
+
+46: Gemini pro is better at complex problems while ChatGPT is better at a quick, most likely solution
+
+47: Sometimes I use more than one AI assistant because each one is good at different stuff. One might explain things really simple, while another gives more detailed answers. Some are faster but make more mistakes, and some are slower but more accurate. Using more than one helps me get the best info and understand things better.
+
+48: I use Gemini to search for information, and ChatGPT to help me write emails and schedule tasks for work.
+
+49: I use a second assistant either to confirm something that may be questionable or to see if it provides a similar answer.
+
+50: I was testing how different the answers are on two different ones. I think that Gemini has better answers than GPT.
+
+51: I have used multiple assistants when trying to create a photo to see which produces a better representation of what I am looking for.  I have found that gemeni seems to follow instructions better than copilot in this case.
+
+52: I sometimes have Gemini or Grok check the work of ChatGPT and vice versa because I have noticed they sometimes disagree with each other. I then have them each defend their positions so I can make my own decision. I have noticed that Gemini sometimes doesn't read as carefully as CHATGPT, and Claude is better at empathy than ChatGPT.
+
+53: Overall I haven't noticed too many differences between ChatGPT and Gemini. I'm trying to see which one will be more forthright and less flattering, and answer questions in a less confusing way when it doesn't know the answer but when it comes down to it they're both pretty similar. I think Gemini seems to have a bit more information when I ask for sources or how it got it's answers.
+
+54: Gemini is the most responsive, accurate, and I believe safe method to use. It is fast and intuitive, always provides clear responses and doesn't make as many mistakes as other LLMs, such as forgetting details or getting details I've given wrong. It does make its share of those mistakes but not as many as, say, Meta, which has to date never gotten anything I've asked it right.
+
+55: I typically don't but I have used different one for email writing proofreading and the other code conversion. ChatGPT is easy to use and when I don't care about privacy. I use Gemini for DevOps code conversion from Linux to Windows because of the privacy settings. It's also faster for lengthy queries.
+
+56: I have noticed that some assistants have more up to date information and some assistants have a better preference for truthfulness rather than "safety"
+
+57: I want to cross reference the info to make sure it's right. I worry one might be weak or wrong on one issue, so if both have the same info, then all is good.
+
+58: I use more than one AI assistant because i may not get the answer i want from one over the other. An example would be ChatGPT is great for overall use but may have limitations answering certain questions due to built in rules while another such as deepseek will freely answer the question.
+
+59: Some are just faster at certain tasks compared to another. Some remember a lot about me, so I want a fresh answer. Some are easier to use for things like image creation. Some are just easier to use in a specific scenario like browsing and then searching with Google Lens.
+
+60: Some do different tasks better. Gemini is better at image generation, Grok is largely unregulated for many things, ChatGPT can sometimes makes better logical choices, and Copilot is baked into Windows tools which makes it faster for some work and research.
+
+61: I use different AI assistants depending on the browser I am using. They all offer information in a similar way but some are used for editing purposes.
+
+62: I want to see if they give me different responses. Also, to see if one appears more correct and therefore make trust judgements. Gemini is worse at technical information (like how to fix Windows issues) than both ChatGPT and Claude. ChatGPT is best at helping me with health/medical information, as I often ask fitness and injury questions. Claude is good all around.
+
+63: I think all AI out there (for the public to access) is still very young and being enhanced and developed constantly.  No one product is yet to standout, so I use different ones to see what they do.
+
+64: I use multiple AI assistants to see how each of them provide information. I want to know if I see the same answers or if the AI would try to be different in the words it chooses when presenting that information.
+
+65: I like to interchange between the two AIs because they answer they give out sometimes don't satisfy me, whether it's not detailed enough or it's completely wrong. I don't know which one is better to be honest. It depends on what I'm asking. Sometimes Chatgpt is better and sometimes Gemini is. I slightly prefer Gemini because it's completely free to use while Chat gpt can be only used a couple times before you hit the limit for the day.
+
+66: I check to see if there are any differences. It’s part of the way I fact check the models. I have frequently found differences in accuracy of the outputs. I find Gemini the most accurate.
+
+67: I have been a ChatGPT user for months, but have slowly started to use Claude more. I notice that Claude is about as advanced but may overtake ChatGPT soon in my opinion. I noticed Claude is a bit more spot on with what I am looking for in responses related to work. ChatGPT is greater for personal use. I am leaning toward making Claude my go to AI for work related tasks and keep ChatGPT for personal use only.
+
+68: I do not use more than one AI. I can not answer the question about difference notice between them.
+
+69: Some adapt to your mood. I've noticed that Grok seems to really pay attention to your style and tone, and matches it well. I find ChatGPT summarizes very well. I really like CoPilot for searches.
+
+70: Chat gpt is my top AI and I pay for pro. Although I've started the use Gemini and am very impressed with it.
+
+71: Sometimes one assistant will shy away from a topic or give a poor response. If that happens I'll try a different one. For instance ChatGPT seems to be the assistant that is most careful in it's responses and sometimes doesn't give real answers.
+
+72: I am just curious as to if the answers will be the same.
+
+73: Some of the assistants handle things better than others. I prefer not to use ChatGPT, but sometimes it performs better than the others. I will first try to use another assistant, but might repeat the request with ChatGPT if necessary.
+
+74: Some AI's are more programmed for work related mental tasks and others function biter as a guide or advice. I use Grok for example for more obscure queries or if I want less limitations than gpt
+
+75: When composing emails to send to vendors and clients. I want a second opinion on how the formatting should look and how to clean it up for distribution, so I will run it through Gemini and CoPilot to get both results and mash the two and my own writing together.
+
+76: I sometimes use more than one AI assistant for translation purposes, especially for more artistic works such as poetry and songs. Some AI assistants are better than translating the nuances better than others -- I've found that ChatGPT is better at such things than Gemini. In general, Gemini is better than ChatGPT at research and referencing relevant sources.
+
+77: Sometimes I use more than one AI assistant because they can have varying results on how they respond to a prompt or something I'm trying to figure out. One AI may have more of a personality or be better than another one for specific projects. I've noticed that Grok is better when I'm trying for poetry or anything writing-based. ChatGPT is better for general questions, and seems to fact-check questions better than Grok.
+
+78: Sometimes, one AI assistant will not give the style of response that we are looking for. So ChatGPT was good at small, repetitive tasks; Perplexity is good at choosing which model to use; and Claude is better for throwing apps, presentations, documents, and that kind of thing together.
+
+79: I have used both chatgpt and gemini to learn astrology. I noticed one had more consistent answers that the other. It turned out that one was superior as far as accurate information. One outperformed on images.
+
+80: Because they tend to exaggerate or skew facts.
+
+81: I like to compare and contrast the answers. I prefer Gemini if I want to do more of a web search for information. I like Claude for brainstorming. I use ChatGPT to cross reference the other sites.
+
+82: I notice that Chat GPT gives better photos from prompts than Gemini for the most part. I mostly use Gemini for work related things and  ChatGPT for personal things and inquiries.
+
+83: Sometimes I notices a complete different answer from them
+
+84: I want to see if the AI assistants concur. Most of the time, I find the assistants are in agreement.The only differences tend to be semantic and formatting.
+
+85: If I use google it automatically pulls up its AI
+
+86: I prefer gemini for image generation. Otherwise, there is no difference to me. I just switch because of free user limitations
+
+87: I can get helpful yet somewhat different  answers from using more than one AI. I do this when i'm not certain that the AI gave me the best answer or if I believe the AI gave me a biased answer. Some AI's, especially google AI will give me biased answers when I need the truth.
+
+88: Some are merely better as chatbots, while others are better at harvesting facts. Grok, for instance, shows less political bias than ChatGPT or other AI assistants, and can thus deliver more accurate results. However, its conversational style isn't as smooth as other assistants.
+
+89: I use more than one since sometimes I feel the quality changes between them and they don't provide the same things I want.  Some AI's are more prone to be hesitant to answer certain things if it's a loaded subject and may refuse, even if worded in a way that seems neutral.  Some also don't edit pictures particularly well.
+
+90: I use more than one AI for a couple of reasons.  I want to see if their data results are the same and I want to see if one gives me more in-depth information.  The only difference I've noticed is that Gemini is much better at producing pictures.  Otherwise, they seem to produce similar results
+
+91: I sometimes use more then one AI assistant I noticed slight difference in the tone of the AI when doing the same task on another AI .I examine how real humans are, as they sound.
+
+92: Some perform certain tasks better than other.
+
+93: It depends on what I need it for. I use Siri for every day things like texts, calls, and web searches. I use chatGPT for fun.
+
+94: if it is something for work that I need a really thorough answer for like case law somewhere, I may need more information or a different source and different models may give different sources.
+
+95: I sometimes use more than one to see if I get different or more varied options, or if they are consistent. For shopping, I sometimes do find that one’s links will be more up to date. Many times though, it is more a matter of identifying different resources rather than one doing better or worse than the other. Another example of that would be looking for studies related to a health issue. I’ll find a lot of overlap but sometimes get different links from each.
+
+96: There are differences in how they summarize books. While I generally start with ChatGPT, I will sometimes use Grok to get a slightly different perspective. I will also check out coding solutions to see which is better. ChatGpt sometimes generates code that is not functional. For brainstorming I might start with ChatGPT and then get a more concise response from Grok.
+
+97: to see if they both come up with the same answer, so I know the answer is reliable. I don't notice too many difference, I like the google one because it doesn't cut me off and tell me I need to pay.
+
+98: If I need ideas when writing (like for character background or their gear or something), I will often get different ideas from Claude vs Chatgpt. And sometimes, one of them will be like "Great idea" (looking at you, ChatGPT) while Claude is more likely to be like "well...that almost works, but how about..."
+
+99: Grok is more cheeky and fun, but i much prefer GPT. Its the best imo.
+
+100: Most of the time the results are similar but sometimes they offer different opinions on recommendations.
+
+101: I know that they can sometimes be wrong so i will verify answers on two different models. If I get different answers I get them to explain more till i can come to a decision on which is correct.
+
+102: I sometimes use more than one AI Assistant to test if the responses will be the same. I notice that the responses are not the same and sometimes conflicting.
+
+103: I like using Gemini for math and coding and I prefer ChatGPT for writing and grammar
+
+104: I have my preferred but I think I am still in a "trust phase" that the information I am getting from the AI is correct, legitimate, etc.  I use more than one sometimes when I don't have tome to verify or cross check sources on my own.  Using more than one AI if I question the response helps me feel more confident that I have good response or suggestion or project, etc.
+
+105: Some AI Assistants' trained data aligns more with my requests so the output is better and richer than just some random internet sources from another assistants' trained data. Sometimes one assistant is faster at doing certain tasks or when theres an outage on one assistance dns servers or hosting cloud servers the other assistant works
+
+
+106: I think it just depends on what comes to mind, or if I'm using my laptop or phone
+
+107: I do it to get a consensus on the information I'm researching. I've found them to provide reasonably consistent information across platform although there's a distinct quality difference as far as improved and more thorough information and pleasant conversational tone with my premium(paid) subscription with ChatGPT.
+
+108: I think they all are generally the same.  I mostly use AI assistants to gain information or to complete some research.  If I used it for other tasks or had a career in which I needed to use AI assistants more often, I may notice more of a difference.
+
+109: I typically only use one AI assistant for most things. I like the perplexity computer because it typically gets the job done. When I want to bucket certain projects I switch the LLM.
+
+110: The only task I use multiple assistants for is meal planning. I feel that gemini and chatgpt offer different meal options that I put together to make my actual meal plan.
+
+111: I like to see how multiple models respond to the same prompt and which one produces better results for whatever I'm trying to accomplish. Claude and ChatGPT respond in different ways to thins like cooking and cleaning tips and ideas. ChatGPT is better for tasks while Claude seems to give more reasonable advice.
+
+112: I just want to see how they handle tasks differently and if one is better  than the other at one thing
+
+113: Because they often give wrong information
+
+114: I think GPT is better at personal issues and tracking personalization, but Gemini sometimes has more accurate info. I check both to make sure info is accurate and get other opinions.
+
+115: I sometimes use more than one AI assistant because they have different strengths. Some are better at explaining complex topics clearly, while others are faster or give more concise answers.
+
+I’ve noticed that certain assistants are stronger at creative tasks like writing or brainstorming, while others are better for fact-based or technical questions.
+
+116: Limit is hit on an app and want to know more still.
+
+117: I use more than one sometime to get "more opinions" on certain subjects. In terms of differences, I notice some communicate more in tune with my thinking structure while others I don't adapt to as easy. Some stay aligned with my thought process/intent more efficiently than others as well (chatGPT seems to be the best at this with me).
+
+118: A situation where I will use more than one AI at a time is when I don't trust the output from one of them. If I ask them a question and their response  isn't what I was expecting, then I will go to a different AI and repeat the question to see if the answer is the same or different. An example would be if I'm trying to find the name of an episode that something occurred in of my favorite show and one AI said the episode doesn't exist but I know it does then I will ask the same question with a different AI. In terms of noticing differences between them, I've noticed that AI is like character AI have more specific characteristics and different personalities while chat gpt and similar AI (gemini, etc) All have the same personality so to say.
+
+119: I use more than one because they often give different answers, and I need to verify the accuracy of the information for my lesson planning. ChatGPT is good for brainstorming and drafting text. Gemini is better at searching for recent facts since it connects to Google. claude usually feels more logical and concise, which I prefer.
+
+120: If I am working through a task that is more complicated, and/or a task that I would be less likely to notice hallucinations, sometimes I will use a different model to double check some things (if there are no referenced sources to check with). And using an example from this last week, after setting up a "project" in ChatGPT, when setting up the prompt for all of the project chats, I used both ChatGPT and Claude to help adjust the prompt, and ensure it fit within the character limit for this. Overall, I have not found anything specific that the "flagship" AI models do different for general purpose use. Sometimes I get better results with one model over another, but this seems more random for the things I use it for. (I don't have enough experience to compare things like Copilot code inside vscode versus other more specialized models.)
+
+121: I like to use Claude for coding work as I think it is the best for that task. If there is a creative component I like to use ChatGPT as the output is more consistently high.
+
+122: Sometimes if I want to see how accurate the AI is, I use another AI to verify the information. It is usually the same information, but sometimes with different tone and additional information.
+
+123: i really don't know.  i have used chatgpt the longest so i am most familiar with it.  i started using gemini a few weeks ago but not that much.
+
+124: I use multiple when I am focused on things being factual. I also find that some give different perspectives which can help when advice is needed.
+
+125: If I'm conducting comprehensive research, like how do I set up an LLC in the state of Texas, I will run 3 models and then save all of the information the models generate for a comprehensive answer
+
+126: I have noticed Meta AI more frequently has "hallucinations," that Google Gemini, but neither one is perfect.
+
+127: I use ChatGPT for asking specific information on tasks I may be doing. I use Canva in productional editing assistance in my photography business. Each has their own specialty is my reason for choosing the above models to work with. ChatGPT is better for learning tasks whereas Canva's forte is art and design.
+
+128: Like to see the various responses
+
+129: Sometimes the sources used for the data are not exactly the same, so there are some subtle nuances.  I would say there is not one or the other that is better because of this feature
+
+130: One is for work and one is for personal. I like chatgpt because it is on my phone
+
+131: i sometimes use more than one AI assistant because , i noticed some give better explanations to questions asked and also give more detailed examples
+
+132: Assistants differ in creativity, context handling, and accuracy, making a multi-tool approach necessary to bridge gaps in reasoning, speed, or tool integration.
+
+133: They may at times, give me different ideas and perspectives, as I am open to all ideas. AI answers to queries that have to be factually accurate, I just make sure the answers are accurate and consistent across the board.
+
+
+
+=== WHY SINGLE-HOME ===
+
+N = 73 
+
+1: I stick with one AI assistant because I find that they almost all act the same, so I have no need to use others
+
+2: ChatGPT can get fucked, Anthropic is my go to now due to the situation with the DoD.
+
+3: I’m comfortable with what I use and don’t want to have to spend money to use a new one. I really haven’t tried others though.
+
+4: i barely use the one that I do use
+
+5: It's just convienent, because my work pays for it.
+
+6: It's reliable.
+
+7: I use the same one almost all the time because it is the one that I know best.
+
+8: I didn't feel that it was necessary to try another AI Assistant for the tasks that I was doing. The AI Assistant that I chose was able to complete the task. I have not tried others.
+
+9: I tried another just to see if it would be any different and I really didn't notice a difference so I stick to Gemini
+
+10: I have gotten used to using the one I started with so I just stuck with that.
+
+11: I found them to be the most reliable and generally correct when asking questions. I generally stop using them when another model comes along that's better or faster and naturally drift away.
+
+12: rarely use them and the one I use seems to be fine so not worth seeking out more
+
+13: It generally provides what I need for the most part, unless I need an image made in a specific way. I don't use AI enough to really warrant use of many different programs.
+
+14: I used to use ChatGBT because it was easy to use and I had a lot of luck with getting good information about it. I no longer use any AI services because of the ethical/environmental impact.
+
+15: I usually stick to just one AI assistant because I understand the way that the AI assistants work. I understand that there is a lot of information that is needed to provide with the AI assistants, and that they learn based on the information that is provided. I stick with just one because it appears more credible.
+
+16: Gemini is already on my phone, so there is ease of use there. I would not generally actively seek out AI assistants, as I do not think they are reliable enough.
+
+17: It's easier and I don't particularly care about the output of these models; they're likely to be similar.
+
+18: Because I fell like it knows Me and understands Me
+
+19: I tried out ChatGPT but stopped because I did not like the company. Gemini is easy to use and good enough for the brief tasks I need to accomplish.
+
+20: It's more familiar and I've had success with ChatGPT in the past. I like to stick with what I know works.
+
+21: I trust one to be able to do what I need it to.
+
+22: It's easier to use something that I know is reliable.
+
+23: I have used CHATGPT more than the others, but Google Gemini comes second. I stick with CHATGPT because I've gotten reliable and useful information from it, so why change? I am comfortable navigating the app as well.
+
+24: I don't use AI for much, just entertainment purposes mostly, so ChatGPT is good enough.
+
+25: I only use Google assistant to get answers to questions.
+
+26: I tend to stick to Claude, as its responses are not always in agreement, and I can use the LLm as another form of feedback. Compared to ChatGPT, Claude can disagree with what I say and can help point me in a direction if I am lost on a topic. ChatGPT, on the other hand, will only agree and say that my way of thinking or my ideas are already correct/.
+
+27: i have a history with one AI assistant. I don't want to build history with another.
+
+28: My company pays for the pro version of Gemini, so that's why I use it. Back when we had the free version, I would sometimes compare the results with other systems, but I haven't done that since we got the paid version.
+
+29: I dont use them often and I have only used one
+
+30: The answers are usually good enough and I don't trust any of them fully enough to just "go with the answer", so I take what they give and then do my own follow-up research as needed, depending on how good or bad the output is. ChatGPT is usually "just good enough" for most things.
+
+31: ive found i get the most consistent results with it
+
+32: I don't use it enough to care. I would rather use my own mind
+
+33: Since I already pay for CHATgpt plus I dont see much reason to switch to free versions of other AI models.
+
+34: I stick to one AI assistant to achieve consistency with tasks. I stop using other AI assistants because many of them have the same features.
+
+35: I tried AI assistants for a bit but I've stopped using them altogether.  I stopped because I feel they are pointless if I have to fact check them anyway, I might as well do the research myself.
+
+36: I don't need or really use AI assistants. I have used them in passing to see the technology and to meet certain requirements, but I have never really started actively using one AI assistant or another.
+
+37: I find Anthropic/Claude to be more ethical when compared to OpenAI/ChatGPT and other AI providers
+
+38: I just started out using ChatGPT and never switched much, because it always did such a good job and I never felt the need to try another LLM. But I'm definitely open to it in the future!
+
+39: I stick with one because it's more widely used, making it more trustworthy in my eyes.
+
+40: I've used others and the one I tend to use (gemini) is just the most convenient and gives decent answers. I typically use the browser, and google's ai assistant is always there, so it gets the most use. My queries are usually simple.
+
+41: I feel comfortable and satisfied with chatgpt
+
+42: I am paying for ChatGPT pro version so it should be better than free versions of other AI assistants. ChatGPT pro is already doing fantastic job so I don't feel the need to use other AI assistants. I have used chatGPT long time so I feel most comfortable with it.
+
+43: I feel most comfortable with ChatGPT. I am sure there are better or functional AI platforms but  I really enjoy the easiness of ChatGPT.
+
+44: I am most familiar with the types of results that I can expect from chatgpt so I continue to use it.  If I do use a different assistant, it is mostly to validate the results from chatgpt
+
+45: I had used ChatGPT but found out it was giving out false information and was not up to date on current events.
+
+46: I only needed to use it to pick decorations and I have not tried others.
+
+47: I don't use AI assistants often so I just use what's already on my phone instead of searching one out.
+
+48: I'm looking for a quick and easy response and feel it's wasting time comparing services.
+
+49: I tried ChatGpt first and it seemed to work for me. I just keep using it.
+
+50: I don't like the style of other assistants, and the one I use I find adequate for my purposes already.
+
+51: The one I use does a sufficient job for what I'm using for, so I don't seek out others.
+
+52: Its use google a lot it is faster to use than switch
+
+53: I tend to stick with just using Character AI because that’s the one I’m most comfortable with and familiar with. I have no need to use another one if this one works for me just fine.
+
+54: I don't use it often or for anything important. I haven't tried others
+
+55: I use one primarily simply because it is the most used by the people I am around. I have not tried others and experienced something too negative that led me to stopping; I just use a variety based on the task at hand.
+
+56: Chatgpt just has been so great to me and never let me down. its use to how i talk so when i need things reworded it sounds just like me
+
+57: I don't "stick with one," I flat out don't use ANY. There really should have been a response to reflect this.
+
+58: i find chatgpt the easiest to use and have never felt the need to try another
+
+59: Reliability. ChatGPT has never really failed to do what I needed it to do - so it didn't make sense to swap from it.
+
+60: I stick with ChatGPT because I feel it is the least biased.
+
+61: I don't; I use them in tandem.
+
+62: Ease of use and integration with existing tools.
+
+63: i have only tried the assistants that were assigned by various studies and have not tried any others
+
+64: I find that my AI assistant works well and I don't see currently any reasons to try a different one.
+
+65: I just prefer siri, she is direct, quick and gives me what I need
+
+66: I stick with chat gpt because it is what I know.  When I have used others, I get nearly the same results so I feel like there's no reason to switch.
+
+67: It's probably just something you used to and don't want to change as long as it serves my needs. I have use others in AI classes at my local library, but I stay with just the one.
+
+68: It's easier for me.  We have Alexa installed and it works fine for me so I haven't really bothered to branch out much.
+
+69: I don't use AI all that much, so I never even thought about trying a bunch of different systems. I use ChatGPT for personal questions since it was the only AI I knew about, and then Copilot at work as needed since that is the one approved at my job.
+
+70: Out of familiarity. I haven’t tried others.
+
+71: I prefer using Gemini. I am familiar with it and feel most comfortable using it
+
+72: I just prefer to use the AI in Google Search since it’s already embedded there. Google gets my search history information anyway, so I’d rather not use another app. It fits my needs as I don’t generate any images or video.
+
+73: For personal use I only have stuck with Chat GBT since there is a free version I use.  I have not tried other ones besides Microsoft Copilot for work.
+
+
+
+=== WHAT DO YOU THINK YOUR AI REMEMBERS ABOUT YOU? ===
+
+N = 181 
+
+1: I think it remembers my goals and how I like to get work done
+
+2: It remembers the tone of emails and the way I write prompts
+
+3: Things I ask about
+
+4: nothing hopefully
+
+5: juat general things im the only one who uses my computer
+
+6: The way I type and the files I feed to it, and the time I work.
+
+7: Anything I have asked it.
+
+8: Co Pilot remembers subjects I have researched, specifics such as hobbies, etc
+
+9: whatever i tell it to keep in core memories or retain during a chat thread until we run out of context window storage in it and drift kicks in
+
+10: It knows the type of questions I have asked, so it has somewhat of a profile of me.
+
+11: I am not sure what it remembers. I had asked it the other day because there was this trend going around, and it said "you are boring" which makes me thing it does not know enough about me. That's a good thing.
+
+12: I think my AI assistant remembers that I want things summarized. That’s what I use it for the most.
+
+13: I'm sure it draws upon all prior chats, or at least a set amount, maybe not all
+
+14: I have that feature turned off because I think it is weird.
+
+15: It remembers the type of air fryer I have for instance, it remembers my zip code, it remembers specific directions I give it for all tasks.
+
+16: I'm not sure what it remembers, but it might remember basic demographic details
+
+17: It remembers by name and manurisms.
+
+18: basically only my past prompts
+
+19: maybe basics about the sort of data that I ask it to summarize for me.
+
+20: It remembers my preferences that I mentioned earlier in the conversation.
+
+21: It remembers past conversations so I do not have to update them on current situations with past information that is relevant to the current situation.
+
+22: I said that I do not know.
+
+23: I asked it. It can keep some information from more recent conversations, it knows my name and specific things I asked it to put to memory. It won't retain chat information forever.
+
+24: They remember my career, my age/height/weight because fitness is a topic we touch on frequently, and Claude remembers my recent job interview.
+
+25: My AI assistant remembers things I've asked them to remember, it also remembers things I've talked about many times (like my cat's names).
+
+26: Few general things like my name and my preferences.
+
+27: I think that my AI assistant remembers prior conversations and prior information that I have provided. I don't utilize the AI assistant for a lot of personal conversations, so I stick with the technical side that the assistant remembers.
+
+28: It may remember past questions and interactions, but I am not sure.
+
+29: I hope my AI assistant doesn't remember anything about me. I don't input personal information while using AI, so I wouldn't expect it to carry over information.
+
+30: I don't establish a relationship with ChatGPT, but it does remember older questions and may try to relate its answers to something we had talked about a week or so ago. I keep my personality profile out of it, so it doesn't know that much about my identity, at least from what I can control.
+
+31: questions I asked
+
+32: I honestly haven't seen evidence of an AI assistant remembering anything about me, but I have no doubt that information about me is stored in the background.
+
+33: It remembers my questions but also my habits and possibly why I’m asking the questions.
+
+34: I take vitamins and supplements and recently had stomach problems. Also, I work online and a warehouse job.
+
+35: My Thoughts how I think
+
+36: I don't think it can really remember anything unless you tell it to. And then it will forget.
+
+37: They remember parts of the roleplay scenario
+
+38: I think it remembers my job, the technology that I use, and what I like to do in my free time.
+
+39: What we talk about
+
+40: Everything I've told it.
+
+41: I think it may remember my interests but I am not quite sure. It certainly doesn't feel obvious if they do remember much about me.
+
+42: It remembers past conversations and things I've asked.
+
+43: The requests I make in the previous conversations.
+
+44: All of our previous conversations.
+
+45: I do not know
+
+46: They way I "talk".  I ask for it to write for me "in my voice" all the time.
+
+47: Stuff like what i'm working on
+
+48: I think my assistant remembers my personality and the way in which I like things answered.
+
+49: My interest in music, art, and nutrition, as well as my nationality and gender.
+
+50: It remembers a lof of my work history and projects from the past and tries to implement those topics in new search solutions when I ask a question.
+
+51: It remembers past projects and information in the same chat that I give it. It probably knows that I am a college student and my major ( CS ).
+
+52: It remembers past conversations I've had, so it can remember pretty much anything that I've told it about myself or others.
+
+53: It remembers specific queries or details of conversations
+
+54: The personal details I share from previous conversations
+
+55: Not sure if it does or not.
+
+56: previous conversations
+
+57: It remembers what I ask and what we've discussed before and takes that into consideration when I ask similar questions.
+
+58: My work history, hobbies, disability and illnesses, attitude
+
+59: It remembers the details from prior conversations, which is nice, because then I can start a new thread and not have to explain everything again. It seems to recall everything that was previously discussed.
+
+60: Yes I think so
+
+61: I have prompted it to know my basic demographics and a few medical diagnoses. It also knows the state that I live in and what car I drive.
+
+62: It remembers anything about me that I've asked it about. I did a "roast me" prompt to Gemini once, and it remembered a scary amount about myself. It roasted me specifically about my use of Gemini to ask it questions about my cat's health.
+
+63: It has a memory that I can clear. It keeps track of prior conversations, and I think it can reference them during my subsequent conversations.
+
+64: It remembers my demographics, my job, and a few of my interests like investing.
+
+65: Nothing I think.
+
+66: Not much, I don't think it really remembers at all
+
+67: basic info that I have inputted
+
+68: The AI assistant has a history of previous chats although I think I am limited in memory but it can review older chat messages if needed.
+
+69: Pretty much everything I told AI about myself
+
+70: I am not sure that it remembers anything about me, that I have noticed
+
+71: My AI assistant remembers major life events of mine and the main characters and roles in my personal relationships.
+
+72: It will remember things I tell it to remember, but honestly I have problems with it not remembering things more than what it actually remembers.
+
+73: It remembers my name and what my major in collage is.
+
+74: I think my previous prompts have led the AI assistant to remember how I want it to respond to my requests.
+
+75: Whatever information that you've already fed it.
+
+76: Information I have provided
+
+77: If I express interests or abilities it remembers those. It also does a fairly good job of building a "profile" of who I am as a person.
+
+78: Maybe it remembers our previous conversation history, but I'm not sure.
+
+79: I think my AI remembers past prompts and conversations if i am logged in and leave the drafts open.
+
+80: It remembers that I am a software engineer with interests in fitness, cooking, and traveling that lives in Boston
+
+81: Pretty much everything I talk to it about
+
+82: It remembers some of my life troubles, like my divorce, but it also remembers that I have anxiety, what I'm working on in terms of jobs, that I'm an artist, and it tailors its responses in a specific style, I believe (very nice and kind haha).
+
+83: Detailed information from my question style, personality, work, and more. ChatGPT knows I am autistic from the way I communicate with it (I asked it this).
+
+84: Well, I know it remembers some of our past conversations because it has brought up details about some before. I don't know what it really remembers about my specifically, but it does refer to older conversations.
+
+85: Some previous information asked is saved.
+
+86: Claude, ChatGPT, and Gemini now all have memory of my past conversations, and therefore have an info set for me. They remember what I'm currently trying to do with my businesses, my health and fitness history, my various thoughts and beliefs from a larger societal view.
+
+87: It knows about my family and my job.
+
+88: it remembers previous conversations. it also remembers how i want the answers. it remembers my preferred writing style such as how professional or casual tone i want.
+
+89: I think the AI assistant remembers the chats regarding about my hobbies, such as games, tech, and a bit of my routine.
+
+90: It remembers my tone, topics, personality traits and thoughts about life.
+
+91: They remember the questions I have asked and responses I’ve given.
+
+92: I think that it compiles topics that I'm interested in and small details about them so as to better help when I ask similarly related questions.
+
+93: The AI assistant remembers my last fitness workout.
+
+94: I think it remembers some of the greatest topics of my past year like aiding in my job hunt, writing cover letters, and aiding me in preparing for interviews. It also remembers the novel ideas I have and helps me develop them.
+
+95: My assistant has my history of what from prior conversations.
+
+96: I never clear my chats so it knows a lot. I want it to be as familiar with me as possible.
+
+97: My general info, preferences, past questions and searches.
+
+98: What I am interested in and what I am doing.
+
+99: It stores information about past requests and past answers. I think it keeps records of all the previous chats.
+
+100: It remembers things that I've communicated to them or personal details about my life in certain chats.
+
+101: My name, or what to call me. I'm not sure about anything else.
+
+102: pretty much everything that I type or give it access to.
+
+103: It remembers all the previous things in my thread.
+
+104: My location/state/usda zone/weather
+
+105: Probably past searches so that it can more readily access old information for quick retrieval.
+
+106: My AI assistant remembers everything about me. It knows what I've asked it before. It also knows things that I didn't explicitly input, such as my location, browser type, equipment type, and demographics.
+
+107: I think it remembers the kinds of questions I ask, and my personality, and how I like it to answer or not to answer.
+
+108: I think it remembers my name but thats about it as I often have to remind it about little things
+
+109: My astrology information and business goals
+
+110: My key details and preference like gender and products.
+
+111: I have no idea, I've never really considered it.
+
+112: Any information I have shared with it and how it can be incorporated in the conversations.
+
+113: AI remembers everything I enter into it
+
+114: Past searches
+
+115: It does a good job of understanding how I like my info provided back to me
+
+116: I think my AI assistant remembers the tasks for the day I tell it I have to do and other parts of my personality.
+
+117: Our previous conversations.
+
+118: Most things which I actually appreciate if I go back to talk about the same subject
+
+119: they both have my resume on memory so they know my work history and a bunch of other information
+
+120: My name, the names of things I have discussed with AI in the past, and key points of our discussions.
+
+121: It remembers specifically the topics of our previous conversations, and certain preferences I have regarding the way I'd like it to deliver information.
+
+122: I think they remember what questions I've asked about related subjects, like languages, fashion, culture, music, etc.
+
+123: I use Gemini consistently and it remembers everything we've talked about previously.  Sometimes it integrates data from a previous relevant question into the answers.  It also seems to remember my moods.
+
+124: I know they always remember my name and maybe a general impression of me.
+
+125: I think my AI assistant remembers that I have an anxiety disorder, as I often use it to help me with my emails to my psychologist for my selective mutism. I also think it remembers that I code for work and other simple characteristics as to who I am, like my prompting style.
+
+126: Everything we chat about and it has access to my emails and photos
+
+127: Siri probably does because it is personalized.
+
+128: It remembers what I tell it. Occasionally I will have to tell it to forget because it throws in information that is not useful to the current conversation.
+
+129: Details related to my family, like the general age of kids I am shopping for and general preferences like how we spend time outside. Also seems to understand the tone I like using when drafting texts or emails and asking for assistance.
+
+130: Previous conversations and the style of response I prefer.
+
+131: I don't think it does remember! I've not run into that yet anyway.
+
+132: Whatever i ask it to remember, if not then it wont recall it. it can search through our chats if i need it to
+
+133: I don't use AI.
+
+134: what i do for work
+
+135: To use snark when talking to me, what my primary use is (writing assistance like brainstorming, practical questions about gear/vehicles/setting).
+
+136: Basic facts about location, mental health, key memories ive told it to
+
+137: It remembers personal information I have given it in promts.
+
+138: It remembers all past chats, I will ask a gardening question in a new chat and it remembers the region I am in from previous chat.
+
+139: It remembers conversations by going back to previous chats. I can continue the conversation from the previous chat.
+
+140: What I do for a living, where I live, where I work
+
+141: I think the AI just keeps track of past inquiries and my patterns of how I like my information, how I request more or require further explanation, how I like my responses, what I will most likely ask for follow-up or additional support.  I'm assuming its algorithms  just keep track of my inquiry patterns, interests, frequent sites or requests or whatever they track.  Sometimes creepy, sometimes helpful.
+
+142: How I like my responses short and precise with external links for data sources. My likes and dislikes. The kind of work occupation I have. My pseudo name that I gave it to reference to me.
+
+143: What I told it to explicitly. Instructions about the novel I am writing, and my diet so it can help come up with food and recipes for me.
+
+144: Things we've previously talked about
+
+145: It remembers my preferences and conversational style.
+
+146: Just my prompts I have used previously.
+
+147: My specific dietary needs
+
+148: Everything I tell it until the permanent memory storage gets full. Then I delete unnecessary memories.
+
+149: Everything
+
+150: My previous queries and my account info
+
+151: It remembers the chat history of things I like or dislike and keeps that in mind while answering to my prompts.
+
+152: i think if you use a specific one regularly that they are programmed to remember your preferences, requests and previous usage
+
+153: It remembers mostly everything we talked about in the past.
+
+154: The things I search and if it can be applied to the current task/query
+
+155: Whatever they are programmed to remember
+
+156: I am not sure
+
+157: I think it remembers any information that I have given it.
+
+158: It remembers just about everything I tell it about myself.
+
+159: I think my AI assistant remembers some general things about how I interact like my preferences, the kinds of questions I ask, or topics I’m interested in so it can give more relevant answers over time.
+
+160: Too much, I don’t like that it thinks it knows me.
+
+161: It's a little scary actually, but it seems to remember everything.
+
+162: It remembers things about my communication style, what I prefer and how conversations generally "flow" with me. They can also remember specific conversation contexts that you can keep on-going for a long time becoming more developed/evolved.
+
+163: Name, location, general information I have given it in the past like account information.
+
+164: Maybe my name since that is programed in I think, otherwise it doesn't seem to remember anything else.
+
+165: It remembers a lot actually such as my kids names and ages, my vehicle make and model, And my name and age. Sometimes it surprises me with what it remembers while other times I expected to know something and it does not. I'm not sure what sets the precedence for what it remembers and what it doesn't.
+
+166: It knows I’m a math teacher and prefer objective, practical lesson structures.
+
+167: Things I asked it to remember for the most part. Mental health information
+
+168: It keeps a history of quite a few things. It keeps track of certain names for cases where I have checked for advice, it keeps track of various hobbies and interests, and other details that tend to be helpful, such as being able to infer my general skill level for a hobby and uses that for more relevant and specific replies if I am finding information related to it. I have also specifically asked it to remember certain things, one example is for a recent car I got, I jokingly refered to it as "The Chef" (it's a Swedish car, so it's a muppets related joke) so I told ChatGPT that when I reference "The Chef" in the future to associate that with the specific year, make, model, trim, and VIN of the car. So now if I am troubleshooting something or trying to find information, I do not need to provide verbose details if I just reference it as "The Chef."
+
+169: It remembers my conversation style and output preferences. It remembers the coding projects I am working on and have access to.
+
+170: I am not sure if it remembers because I usually ask about knowledge of certain information and usually do not engage more than one round of question each time.
+
+171: seems to remember everything i ask it
+
+172: Things that I have either asked it to remember or things that are talked about a lot.
+
+173: It remembers prior questions I’ve asked or has referenced prior conversations
+
+174: "Broke, exercise obsessed, energy broker" are the three characteristics it often references
+
+175: At this time I feel Ai remembers previous tasks and knows nothing of my core self. I use Ai strictly as tools on an as needed basis. They are not my friend's. They are just like a screwdriver a tool. I refuse to join the let's make Ai human team. That will be our societies future downfall and perhaps demise. No I'm not old and paranoid. I just choose to see the future with clarity and commonsense.
+
+176: key points that I have discussed or inquired about
+
+177: Questions I have asked in the past regarding my age, medical history, and prescriptions I have inquired about.
+
+178: It remembers what I have asked in the past and connects that to current requests
+
+179: my AI assitant remebers my name
+
+180: my team of coworkers
+
+181: The previous queries I have made that may be related to the current query.
+

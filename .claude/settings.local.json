@@ -14,7 +14,11 @@
       "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" -e \"rmarkdown::render\\('source/ai_usage/06_report.Rmd', output_dir = 'output/reports', output_file = 'ai_usage_pilot_report.pdf'\\)\")",
       "Bash(export PATH=\"/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools:$PATH\")",
       "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" -e \"Sys.setenv\\(RSTUDIO_PANDOC='/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools'\\); rmarkdown::render\\('source/ai_usage/06_report.Rmd', output_dir = 'output/reports', output_file = 'ai_usage_pilot_report.pdf'\\)\")",
-      "Bash(/c/Program Files/R/R-4.5.1/bin/Rscript.exe:*)"
+      "Bash(/c/Program Files/R/R-4.5.1/bin/Rscript.exe:*)",
+      "Bash(/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools/pandoc.exe:*)",
+      "Bash('/c/Program Files/R/R-4.5.1/bin/Rscript.exe' -e ':*)",
+      "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" source/ai_usage/_render.R)",
+      "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" -e \"df <- readRDS\\('data/clean/ai_usage_clean.rds'\\); cat\\(names\\(df\\), sep='\\\\n'\\)\")"
     ]
   }
 }
