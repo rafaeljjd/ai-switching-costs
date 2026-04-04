@@ -18,7 +18,10 @@
       "Bash(/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools/pandoc.exe:*)",
       "Bash('/c/Program Files/R/R-4.5.1/bin/Rscript.exe' -e ':*)",
       "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" source/ai_usage/_render.R)",
-      "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" -e \"df <- readRDS\\('data/clean/ai_usage_clean.rds'\\); cat\\(names\\(df\\), sep='\\\\n'\\)\")"
+      "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" -e \"df <- readRDS\\('data/clean/ai_usage_clean.rds'\\); cat\\(names\\(df\\), sep='\\\\n'\\)\")",
+      "Bash(\"/c/Program Files/R/R-4.5.1/bin/Rscript.exe\" source/ai_usage/03b_openended.R)",
+      "Bash(ls -la output/figures/fig_openended_*.png)",
+      "Bash(ls:*)"
     ]
   }
 }
